@@ -1,4 +1,6 @@
 <img src="https://github.com/user-attachments/assets/08d45101-e9a8-44f4-9c7c-58677924495a" width="100%" height="250">
+<img src="https://github.com/user-attachments/assets/0bda6f8f-d744-4f11-9ed3-2f335276b1bb" width="100%" height="250">
+![Hello I’m Pavan](https://github.com/user-attachments/assets/0bda6f8f-d744-4f11-9ed3-2f335276b1bb)
 
 - currently working on this project [fitness-tracker](github.com/pavank-v/fitness-tracker)
 - final year cs student
