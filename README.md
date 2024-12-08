@@ -16,6 +16,6 @@
 ![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavank-v&theme=github-compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)
 
 
