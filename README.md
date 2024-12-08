@@ -1,6 +1,4 @@
-<img src="pavan's banner.gif" alt="GitHub Banner" width="100%" height="60%" />
-
-[![Video Thumbnail](Hello%20I'm%20Pavan.png)](Hello%20I'm%20Pavan.mp4)
+<img src="Hello I'm Pavan.png" alt="GitHub Banner" width="100%" height="60%" />
 
 - currently working on this project [fitness-tracker](github.com/pavank-v/fitness-tracker)
 - final year cs student
