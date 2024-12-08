@@ -15,3 +15,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavank-v&show_icons=true&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavank-v&layout=compact)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pavank-v)
+
+
