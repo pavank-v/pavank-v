@@ -1,10 +1,4 @@
-
-
-
-
-https://github.com/user-attachments/assets/a84a725e-d44a-43fd-aec1-8b1d7108d55d
-
-![Hello I’m Pavan](https://github.com/user-attachments/assets/08d45101-e9a8-44f4-9c7c-58677924495a)
+![](https://github.com/user-attachments/assets/08d45101-e9a8-44f4-9c7c-58677924495a)
 
 
 - currently working on this project [fitness-tracker](github.com/pavank-v/fitness-tracker)
