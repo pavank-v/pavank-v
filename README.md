@@ -1,5 +1,15 @@
 <img src="Hello%20I'm%20Pavan.png" alt="GitHub Banner" width="100%" height="60%" />
 
+
+
+https://github.com/user-attachments/assets/8e2d945e-155c-4491-9df2-985ca5baa7e4
+
+![Hello I’m Pavan](https://github.com/user-attachments/assets/e1a347a0-2623-4f6a-be3c-97b94d71b9a7)
+
+https://github.com/user-attachments/assets/324199c2-6188-4cfc-a610-c0176d23d1e8
+
+![Hello I’m Pavan](https://github.com/user-attachments/assets/a665a1fb-b149-4852-bcf2-c1a11a794dda)
+
 - currently working on this project [fitness-tracker](github.com/pavank-v/fitness-tracker)
 - final year cs student
 - Reach me at [pavankumarv.dev@gmail.com](mailto:pavankumarv.dev@gmail.com) 
