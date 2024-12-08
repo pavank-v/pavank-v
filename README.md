@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavank-v&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 👨‍💻 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pavank-v)
+![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavank-v&theme=github-compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)](https://visitcount.itsvg.in)
