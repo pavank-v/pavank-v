@@ -1,4 +1,4 @@
-<img src="Hello I'm Pavan.png" alt="GitHub Banner" width="100%" height="60%" />
+<img src="Hello%20I'm%20Pavan.png" alt="GitHub Banner" width="100%" height="60%" />
 
 - currently working on this project [fitness-tracker](github.com/pavank-v/fitness-tracker)
 - final year cs student
