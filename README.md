@@ -12,27 +12,6 @@
 ### 👨‍💻 GitHub Activity Graph:
 ![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavank-v&theme=github-compact)
 
-### 🗂️ Highlight Projects
-<a href="https://github.com/pavank-v/fitness-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavank-v&repo=fitness-tracker&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fitness-tracker" />
-</a>
-
-<a href="https://github.com/pavank-v/Django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavank-v&repo=Django&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Django" />
-</a>
-
-<a href="https://github.com/pavank-v/Iphone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavank-v&repo=Iphone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Iphone" />
-</a>
-
-<a href="https://github.com/pavank-v/Interpreter-with-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavank-v&repo=Interpreter-with-go&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Iphone" />
-</a>
-
-<a href="https://github.com/pavank-v/Python-Scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavank-v&repo=Python-Scripts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Iphone" />
-</a>
-
 ---
 ![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)
 
