@@ -38,4 +38,14 @@
 ---
 ![](https://visitcount.itsvg.in/api?id=pavank-v&icon=6&color=1)
 
+<p align="center">
+  <a href="https://leetcode.com/u/chanikyanelapatla/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Pavank1301/">
+    <img src="https://leetcard.jacoblin.cool/Pavank1301?theme=dark" alt="LeetCode Stats">
+  </a>
+</p>
