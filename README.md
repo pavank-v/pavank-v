@@ -17,7 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   <img src="https://icons.duckduckgo.com/ip3/www.djangorestframework.org.ico" alt="drf" width="40" height="40"/> 
-  <img src="https://img.icons8.com/?size=100&id=55125&format=png&color=000000" alt="flask" width="40" height="40" >
+  <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="flask" width="40" height="40" >
+  <img src="https://img.icons8.com/?size=100&id=55125&format=png&color=000000" alt="Selenium" width="40" height="40" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
