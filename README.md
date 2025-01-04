@@ -23,8 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=22C3E6" alt="postgresql" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=22C3E6" alt="sqlite" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=FFFFFF" alt="bash" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
