@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/WEBP/footer.webp)
 
 
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
 **About me**
 
