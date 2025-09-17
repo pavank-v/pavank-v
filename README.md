@@ -5,7 +5,6 @@
 
 **About me**
 
-- 🔭 I’m currently working on [Fitness Tracker](https://github.com/pavank-v/fitness-tracker)
 - 👨‍💻 Check out my Projects
 - 📫 How to reach me [pavankumarv.dev@gmail.com](mailto:pavankumarv.dev@gmail.com) 
 
